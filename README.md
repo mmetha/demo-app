@@ -1,1 +1,1 @@
-# openbmc_demo_recipe
+# demo app
